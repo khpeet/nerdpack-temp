@@ -1,0 +1,7 @@
+{
+  "schemaType": "LAUNCHER",
+  "id": "cox-akamai-throughput-launcher",
+  "displayName": "CoxAkamaiThroughputLauncher",
+  "description": "Describe me",
+  "rootNerdletId": "cox-akamai-throughput"
+}
